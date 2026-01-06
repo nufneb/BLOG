@@ -19,7 +19,7 @@ summaryLength = 1 # minimum summary words, but chinese is always together, so it
   readmore = false
   # toc = true # table of contents on the up sction of website
   pager = true
-  mainSections = ["work", "news", "blog", "now"]
+  mainSections = ["work", "log", "blog", "now"]
   post_meta = ["date", "catergories"]
 
 [Params.logo]
@@ -60,8 +60,8 @@ summaryLength = 1 # minimum summary words, but chinese is always together, so it
     pageRef = '/now'
     weight = 45
   [[menus.main]]
-    name = 'News'
-    pageRef = '/news'
+    name = 'log'
+    pageRef = '/log'
     weight = 50
   [[menus.main]]
     name = 'About'

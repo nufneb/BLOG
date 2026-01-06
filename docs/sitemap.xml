@@ -2,127 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://blog.nufneb.com/</loc>
     <lastmod>2026-01-03T18:11:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/mosquito/</loc>
+    <loc>https://blog.nufneb.com/blog/mosquito/</loc>
     <lastmod>2026-01-03T18:11:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://blog.nufneb.com/blog/</loc>
     <lastmod>2026-01-03T18:11:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/now/</loc>
+    <loc>https://blog.nufneb.com/log/now/</loc>
     <lastmod>2025-12-31T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/</loc>
+    <loc>https://blog.nufneb.com/log/</loc>
     <lastmod>2025-12-31T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/now/001/</loc>
+    <loc>https://blog.nufneb.com/now/001/</loc>
     <lastmod>2025-12-31T09:56:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/now/</loc>
+    <loc>https://blog.nufneb.com/now/</loc>
     <lastmod>2025-12-31T09:56:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/testing/</loc>
+    <loc>https://blog.nufneb.com/blog/testing/</loc>
     <lastmod>2025-12-21T20:31:59+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/voc/</loc>
+    <loc>https://blog.nufneb.com/blog/voc/</loc>
     <lastmod>2025-12-13T17:28:11+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/hobby/</loc>
+    <loc>https://blog.nufneb.com/blog/hobby/</loc>
     <lastmod>2025-12-03T15:02:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cmdiscuss1/</loc>
+    <loc>https://blog.nufneb.com/blog/cmdiscuss1/</loc>
     <lastmod>2025-11-26T20:25:11+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/sidemirror/</loc>
+    <loc>https://blog.nufneb.com/blog/sidemirror/</loc>
     <lastmod>2025-11-18T19:46:11+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/dinner/</loc>
+    <loc>https://blog.nufneb.com/blog/dinner/</loc>
     <lastmod>2025-11-16T13:41:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/bodyclock/</loc>
+    <loc>https://blog.nufneb.com/blog/bodyclock/</loc>
     <lastmod>2025-11-05T13:05:18+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/scheduling/</loc>
+    <loc>https://blog.nufneb.com/blog/scheduling/</loc>
     <lastmod>2025-11-04T09:49:59+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/browsugar/</loc>
+    <loc>https://blog.nufneb.com/blog/browsugar/</loc>
     <lastmod>2025-11-01T13:42:29+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/trafficlight/</loc>
+    <loc>https://blog.nufneb.com/blog/trafficlight/</loc>
     <lastmod>2025-10-30T13:10:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/switching/</loc>
+    <loc>https://blog.nufneb.com/blog/switching/</loc>
     <lastmod>2025-10-21T09:40:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/mycollections/</loc>
+    <loc>https://blog.nufneb.com/blog/mycollections/</loc>
     <lastmod>2025-10-17T18:22:03+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/apps-recommendation/</loc>
+    <loc>https://blog.nufneb.com/blog/apps-recommendation/</loc>
     <lastmod>2025-10-12T19:33:52+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/flowfree/</loc>
+    <loc>https://blog.nufneb.com/blog/flowfree/</loc>
     <lastmod>2025-10-03T09:57:26+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/website-change-2025-10-01/</loc>
+    <loc>https://blog.nufneb.com/log/website-change-2025-10-01/</loc>
     <lastmod>2025-10-01T07:20:11+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/mechanic-and-meaning/</loc>
+    <loc>https://blog.nufneb.com/blog/mechanic-and-meaning/</loc>
     <lastmod>2025-09-23T07:19:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/input-method/</loc>
+    <loc>https://blog.nufneb.com/blog/input-method/</loc>
     <lastmod>2025-09-19T07:40:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/boredom/</loc>
+    <loc>https://blog.nufneb.com/blog/boredom/</loc>
     <lastmod>2025-09-14T06:35:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/my-priciple-of-arrangements/</loc>
+    <loc>https://blog.nufneb.com/blog/my-priciple-of-arrangements/</loc>
     <lastmod>2025-09-11T06:52:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/99-ways-to-tell-a-story/</loc>
+    <loc>https://blog.nufneb.com/blog/99-ways-to-tell-a-story/</loc>
     <lastmod>2025-09-09T06:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/clippy/</loc>
+    <loc>https://blog.nufneb.com/blog/clippy/</loc>
     <lastmod>2025-09-05T06:48:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/pieces-recommendation/</loc>
+    <loc>https://blog.nufneb.com/blog/pieces-recommendation/</loc>
     <lastmod>2025-09-01T06:40:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/subtract/</loc>
+    <loc>https://blog.nufneb.com/blog/subtract/</loc>
     <lastmod>2025-08-28T16:50:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/a-big-problem/</loc>
+    <loc>https://blog.nufneb.com/blog/a-big-problem/</loc>
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/i-have-a-website/</loc>
+    <loc>https://blog.nufneb.com/log/i-have-a-website/</loc>
     <lastmod>2025-08-25T19:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/articles-wrote-in-4th-grade/</loc>
+    <loc>https://blog.nufneb.com/blog/articles-wrote-in-4th-grade/</loc>
     <lastmod>2025-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/book-and-food/</loc>
+    <loc>https://blog.nufneb.com/blog/book-and-food/</loc>
     <lastmod>2025-07-01T15:14:22+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/work/nine-hundred-and-ninety-nine-roses/</loc>
-    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
+    <loc>https://blog.nufneb.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/work/</loc>
-    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
+    <loc>https://blog.nufneb.com/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/work/gourmet-race/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/work/rush-e/</loc>
-    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/work/idol/</loc>
-    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://blog.nufneb.com/about/</loc>
   </url>
 </urlset>
