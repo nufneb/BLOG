@@ -1,3 +1,74 @@
+/*
+@font-face {
+  font-family: "Cloud";
+  src:
+    url("/fonts/GenWan-R.otf") format("opentype"); 
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cloud";
+  src:
+    url("/fonts/GenWan-SB.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+
+}
+
+@font-face {
+  font-family: "Shape";
+  src:
+    url("/fonts/GenYo-R.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Shape";
+  src:
+    url("/fonts/GenYo-B.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+*/
+/*
+@font-face {
+  font-family: "Round";
+  src:
+    url("/fonts/GenSen-R.woff") format("woff"); 
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Round";
+  src:
+    url("/fonts/GenSen-B.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+*/
+@font-face {
+  font-family: "Round";
+  src:
+    url("/fonts/GenSen-R.otf") format('opentype'); 
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Round";
+  src:
+    url("/fonts/GenSen-B.otf") format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+
 *,
 *::before,
 *::after {
@@ -43,15 +114,27 @@ html {
 
 body {
 	margin: 0;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: "Round", sans-serif;
 	font-size: 16px;
-	font-size: 1rem;
-	line-height: 1.6;
+	font-size: 1.2rem;
+	line-height: 1.75;
 	word-wrap: break-word;
 	background: #f7f7f7;
 	-webkit-font-smoothing: antialiased;
 }
 
+/*
+body {
+	margin: 0;
+	font-family: "Cloud", Helvetica, Arial, serif;
+	font-size: 16px;
+	font-size: 1.2rem;
+	line-height: 1.75;
+	word-wrap: break-word;
+	background: #f7f7f7;
+	-webkit-font-smoothing: antialiased;
+}
+*/
 .container {
 	position: relative;
 	width: 100%;
@@ -121,13 +204,14 @@ body {
 	content: "";
 }
 
+menu,
 input,
 button,
 select,
 optgroup,
 textarea {
 	margin: 0;
-	font-family: inherit;
+	font-family: "Shape", serif; /* not working */
 	font-size: inherit;
 	line-height: inherit;
 }
@@ -218,6 +302,7 @@ p {
 
 b,
 strong {
+
 	font: inherit;
 	font-weight: 700;
 }
