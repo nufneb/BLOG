@@ -1,3 +1,3 @@
-[this is my current webstie](https://nufneb.github.io/my-website/)
+[this is my current webstie](https://nufneb.github.io/BLOG/)
 
 
