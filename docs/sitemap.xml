@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.nufneb.com/log/003/</loc>
+    <lastmod>2026-01-10T12:05:23+08:00</lastmod>
+  </url><url>
     <loc>https://blog.nufneb.com/</loc>
-    <lastmod>2026-01-03T18:11:13+08:00</lastmod>
+    <lastmod>2026-01-10T12:05:23+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.nufneb.com/log/</loc>
+    <lastmod>2026-01-10T12:05:23+08:00</lastmod>
   </url><url>
     <loc>https://blog.nufneb.com/blog/mosquito/</loc>
     <lastmod>2026-01-03T18:11:13+08:00</lastmod>
@@ -11,10 +17,7 @@
     <loc>https://blog.nufneb.com/blog/</loc>
     <lastmod>2026-01-03T18:11:13+08:00</lastmod>
   </url><url>
-    <loc>https://blog.nufneb.com/log/now/</loc>
-    <lastmod>2025-12-31T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.nufneb.com/log/</loc>
+    <loc>https://blog.nufneb.com/log/002/</loc>
     <lastmod>2025-12-31T10:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.nufneb.com/now/001/</loc>
@@ -65,7 +68,7 @@
     <loc>https://blog.nufneb.com/blog/flowfree/</loc>
     <lastmod>2025-10-03T09:57:26+08:00</lastmod>
   </url><url>
-    <loc>https://blog.nufneb.com/log/website-change-2025-10-01/</loc>
+    <loc>https://blog.nufneb.com/log/001/</loc>
     <lastmod>2025-10-01T07:20:11+08:00</lastmod>
   </url><url>
     <loc>https://blog.nufneb.com/blog/mechanic-and-meaning/</loc>
@@ -95,7 +98,7 @@
     <loc>https://blog.nufneb.com/blog/a-big-problem/</loc>
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.nufneb.com/log/i-have-a-website/</loc>
+    <loc>https://blog.nufneb.com/log/000/</loc>
     <lastmod>2025-08-25T19:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.nufneb.com/blog/articles-wrote-in-4th-grade/</loc>

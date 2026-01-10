@@ -51,7 +51,6 @@
   font-weight: 700;
   font-style: normal;
 }
-*/
 @font-face {
   font-family: "Round";
   src:
@@ -68,6 +67,8 @@
   font-style: normal;
 }
 
+*/
+@import url("https://font.emtech.cc/css/GenSenRoundedTW");
 
 *,
 *::before,
@@ -114,7 +115,7 @@ html {
 
 body {
 	margin: 0;
-	font-family: sans-serif;
+	font-family: "GenSenRoundedTW";
 	font-size: 16px;
 	font-size: 1.2rem;
 	line-height: 1.75;
@@ -169,9 +170,9 @@ body {
 	/* tweak */
 	/* TODO: fix the "flex" that make this not work,
 	 * under stand what the heck is flex and webkit */
-	max-width: min(70ch, 100% - 2rem);
+	max-width: min(70ch, 100% - 1rem);
 	margin: 0 auto;
-	padding: 1rem;
+	padding: 0.5rem;
 }
 
 .sidebar {
@@ -211,7 +212,7 @@ select,
 optgroup,
 textarea {
 	margin: 0;
-	font-family: "Shape", serif; /* not working */
+	font-family: inherit;
 	font-size: inherit;
 	line-height: inherit;
 }
@@ -472,11 +473,21 @@ select {
 
 /* Header */
 .header {
-	background: #fff;
+	background: #2a2a2a;
+	margin-top: 1rem;
 }
 
+.header__container {
+    display: flex;
+    align-items: center;        /* vertically center logo & menu */
+	justify-content: center;
+}
+
+
 .logo {
+	position: relative;
 	padding: 25px;
+
 }
 
 .logo__link {
@@ -489,7 +500,8 @@ select {
 }
 
 .logo__img {
-	max-height: 256px;
+	max-height: 20px;
+	max-height: 4rem;
 }
 
 .logo__text {
@@ -501,8 +513,10 @@ select {
 }
 
 .logo--mixed .logo__img {
-	max-width: 128px;
-	max-height: 128px;
+	max-width: 32px;
+	max-width: 4rem;
+	max-height: 32px;
+	max-height: 4rem;
 }
 
 .logo--mixed .logo__text {
@@ -514,7 +528,7 @@ select {
 	font-size: 2rem;
 	font-weight: 700;
 	line-height: 1;
-	color: #000;
+	color: #fff;
 }
 
 .logo__tagline {
@@ -538,12 +552,17 @@ select {
 
 /* Main menu */
 .no-js .menu__btn {
-	display: none;
+	display: flex;
+}
+
+.menu {
+	position: relative;
+	text-align: center;
 }
 
 .menu__btn {
 	display: block;
-	width: 100%;
+	width: 7.5rem;
 	padding: 0;
 	font: inherit;
 	color: #fff;
@@ -558,7 +577,7 @@ select {
 	padding: 10px 15px;
 	padding: .625rem .9375rem;
 	font-weight: 700;
-	text-align: right;
+	text-align: center;
 	text-transform: uppercase;
 	cursor: pointer;
 	-webkit-user-select: none;
@@ -588,6 +607,9 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .menu__list {
 	list-style: none;
 	background: #2a2a2a;
+
+	/* customize */
+
 }
 
 .menu__item:hover {
@@ -640,7 +662,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 @media screen and (min-width: 767px) {
 	.menu {
-		border-bottom: 5px solid #afc5cf;
+		/* border-bottom: 5px solid #afc5cf; */
 	}
 
 	.menu__btn {

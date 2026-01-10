@@ -10,6 +10,11 @@ summaryLength = 1 # minimum summary words, but chinese is always together, so it
   name = "亖亖"
   bio = "無聊當有趣"
 
+[pagination]
+  disableAliases = false
+  pagerSize = 128
+  path = 'page'
+
 [Params]
   highlightColor = "#8fa5af"
   copyright = "亖亖"
