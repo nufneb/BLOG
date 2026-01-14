@@ -115,7 +115,7 @@ html {
 
 body {
 	margin: 0;
-	font-family: "GenSenRoundedTW";
+	font-family: "GenSenRoundedTW", sans-serif;
 	font-size: 16px;
 	font-size: 1.2rem;
 	line-height: 1.75;
@@ -474,7 +474,6 @@ select {
 /* Header */
 .header {
 	background: #2a2a2a;
-	margin-top: 1rem;
 	border-bottom: 6px solid #afc5cf;
 }
 
