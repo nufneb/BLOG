@@ -1045,13 +1045,16 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	font-weight: 700;
 	line-height: 1;
 	text-transform: uppercase;
+	font-size:13px;
+	font-size:1rem;
 }
 
 .pager__title {
 	margin-bottom: 0;
 	overflow: hidden;
-	font-size: 13px;
-	font-size: .8125rem;
+	font-weight: 700;
+	font-size:13px;
+	font-size:1rem;
 }
 
 .pager__item {
@@ -1417,8 +1420,8 @@ textarea {
 	}
 
 	.list__title {
-		font-size: 16px;
-		font-size: 1rem;
+		font-size: 20px;
+		font-size: 1.25rem;
 	}
 
 	.list__lead {
