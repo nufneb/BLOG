@@ -302,16 +302,28 @@ p {
 }
 
 b,
-strong {
-
+strong,
+i,
+em{
 	font: inherit;
-	font-weight: 700;
 }
 
-i,
-em {
-	font: inherit;
+b {
+	font-weight: 800;
+}
+strong {
+	font-weight: 600;
+	text-decoration-line: underline;
+	text-decoration-style: double;
+}
+i {
 	font-style: italic;
+}
+em {
+	font-weight: 450;
+	font-style: italic;
+	transform: skewX(-8deg);
+	padding: 0 0.125em;
 }
 
 ol,
